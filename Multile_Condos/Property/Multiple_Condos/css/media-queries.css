@@ -1,0 +1,183 @@
+************************************************************************************
+smaller than 1366
+*************************************************************************************/
+@media screen and (max-width: 1366px) {
+}
+/************************************************************************************
+smaller than 1280
+*************************************************************************************/
+@media screen and (max-width: 1280px) {
+}
+
+
+/************************************************************************************
+smaller than 1024
+*************************************************************************************/
+@media screen and (max-width: 1024px) {
+}
+
+/************************************************************************************
+smaller than 768
+*************************************************************************************/
+@media screen and (max-width: 768px) {
+}
+
+
+@media screen and (max-width: 736px) {
+
+    .nooo_mrgnnn {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .logo_sctn {
+        float: left;
+        width: auto;
+        text-align: left;
+        padding: 6px 0;
+    }
+
+    .navbar-toggle {
+        background-color: #333;
+    }
+
+    .team_box {
+        float: left;
+        width: 100%;
+        margin: 12px 0;
+        padding: 6px;
+        text-align: center;
+    }
+
+    .cond_detail_btn {
+        background: #329495;
+        border: none;
+        margin: 12px 0;
+        border-radius: 0px;
+        font-size: 12px;
+        float: left;
+    }
+
+    .logo_sect_bg {
+        float: left;
+        width: 100%;
+        padding: 0;
+        border-bottom: 1px solid #cccccc;
+    }
+	.logo_sctn img {
+        width: 50%;
+    }
+	.nav > li > a {
+    display: block;
+    padding: 8px 14px;
+    position: relative;
+}
+
+
+    .services_sect {
+        float: left;
+        width: 100%;
+        margin: 0;
+    }
+
+    .condo_box {
+        float: left;
+        width: 100%;
+        background: #f7f8f8;
+        padding: 9px;
+        border: 1px solid #dcdfdf;
+        margin: 12px 0;
+    }
+
+    .team_content h2 {
+        color: #329495;
+        float: left;
+        font-family: "Conv_Poppins-Medium";
+        font-size: 22px;
+        margin: 6px 0;
+        padding-bottom: 3px;
+        width: 100%;
+        text-transform: uppercase;
+    }
+
+    .team_img {
+        float: left;
+        width: 100%;
+        text-align: center;
+    }
+
+    .map_sect {
+        float: left;
+        width: 100%;
+        margin: 15px 0 0;
+    }
+
+    .service_content {
+        float: left;
+        width: 100%;
+        margin: 12px 0 0;
+    }
+	.futer_adress_bg {
+    float: left;
+    width: 100%;
+    margin: 12px 0 0;
+    text-align: center;
+}
+.futer_adress {
+    float: left;
+    width: 100%;
+    margin-bottom: 12px;
+}
+.futer_adress_right {
+    float: left;
+    width: 100%;
+    text-align: center !important;
+}
+}
+
+/************************************************************************************
+smaller than 767
+*************************************************************************************/
+
+@media screen and (max-width: 640px) {
+}
+/************************************************************************************
+smaller than 480
+*************************************************************************************/
+@media screen and (max-width: 480px) {
+
+    .main_content h2 {
+        border-bottom: 2px solid;
+        color: #252525;
+        float: left;
+        font-family: "Conv_Poppins-Medium";
+        font-size: 22px;
+        margin: 6px 0;
+        padding-bottom: 3px;
+        width: 100%;
+        text-transform: uppercase;
+    }
+
+    .condo_box {
+        float: left;
+        width: 100%;
+        background: #f7f8f8;
+        padding: 9px;
+        border: 1px solid #dcdfdf;
+        text-align: center;
+    }
+
+    .logo_sctn img {
+        width: 50%;
+    }
+}
+/************************************************************************************
+smaller than 360
+*************************************************************************************/
+@media screen and (max-width: 360px) {
+}
+/************************************************************************************
+smaller than 320
+*************************************************************************************/
+@media screen and (max-width: 320px) {
+}
